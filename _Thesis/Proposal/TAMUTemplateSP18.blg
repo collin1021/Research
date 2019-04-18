@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: TAMUTemplateSP18.aux
+A level-1 auxiliary file: data/titlepage.aux
+A level-1 auxiliary file: data/abstract.aux
+A level-1 auxiliary file: data/contributors.aux
+A level-1 auxiliary file: data/nomenclature.aux
+A level-1 auxiliary file: data/lists.aux
+A level-1 auxiliary file: data/section1.aux
+A level-1 auxiliary file: data/section2.aux
+A level-1 auxiliary file: data/section3.aux
+A level-1 auxiliary file: data/section4.aux
+A level-1 auxiliary file: data/section5.aux
+The style file: ieeetr.bst
+Database file #1: data/myReferences.bib
+Warning--entry type for "Bobic" isn't style-file defined
+--line 39 of file data/myReferences.bib
+Warning--entry type for "Souto" isn't style-file defined
+--line 49 of file data/myReferences.bib
+(There were 2 warnings)

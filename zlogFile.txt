@@ -1,0 +1,3 @@
+Start reading nodes: delta time = 14.808 seconds
+Start reading elements: delta time = 0 seconds
+Finished reading elements: delta time = 0.001 seconds

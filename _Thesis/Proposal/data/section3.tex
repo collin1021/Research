@@ -1,0 +1,38 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  New template code for TAMU Theses and Dissertations starting Fall 2016.  
+%
+%
+%  Author: Sean Zachary Roberson
+%  Version 3.17.09
+%  Last Updated: 9/21/2017
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                           SECTION III
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Proposed Methods}
+
+The following chapter will discuss an approach to each of the previous discussed research objectives.
+\section{Surface Representation Data Types}
+
+Although the specific problem presented in this research may be fairly new, detecting collisions and conducting object intersection detection is not. Therefore, a review will be performed on current and antiquated techniques for solving these problems and the representation of the data that describes the objects being used in these methods. Two sources of inspiration that will be heavily explored is the video gaming industry and the computer-aided design (CAD) industry.
+
+Many video games today have three dimensional worlds where the user can often run into and jump onto objects that occupy the world space. These video games conducting hundreds of collision detection tests a minute. Therefore, a study into how they represent the objects that can interact and how they detect these intersections will be conducted. It stands that any method used in this industry will be computationally efficient as collisions in many video game titles happen in fractions of a second.
+
+Computer-aided design software (such as Auto Cad\textsuperscript{\textregistered} and Solidworks\textsuperscript{\textregistered}) have the ability to subtract volumes from each other and highlight intersection boundaries. They can do this very accurately for parts that must fit together with small tolerances. The method in which they both describe their parts and detect these intersections could be very influential in the surface representation type used in detecting and solving the inter-penetrations discussed in this research. A study into the theory of how these types of software are able to accurately describe these intersections will also be conducted. 
+
+An ideal data type to be used for identification and resolution of inter-penetrations will be directly related to the data either internally stored or exported from VTMS. Any data type chosen for the remaining objectives should not overly modify or approximate the data given from VTMS. Ease of implementation and use of data types will also influence which representation types are explored. A representation that helps identify and resolve inter-penetrations accurately and in a timely manner is the goal of this objective.
+
+A preliminary study into both of these areas revealed that most video games make use of a surface polygon mesh of objects. \cite{Bobic,Souto}. CAD programs can use implicit and parametric representations of surfaces that make up the three dimensional objects that can collide \cite{CAD}.
+
+\section{Identification of Interpenetration Regions}
+
+The exact method for accurately identifying inter-penetrating regions between surface representations will depend on the chosen representation types. From the preliminary study mentioned previously, one representation type is a polygon surface description that has use in the video game industry. In \cite{Bobic, Souto}, different methods for avoiding and identifying inter-penetrations are discussed. Some of these ideas may be adapted for the purposes of this research.
+
+Another potential type of representation of the tow surfaces is an analytical surface. Rather, a surface that can be defined by a single or set of equations. This readily seen in CAD software design \cite{CAD}. In these types of software, there are algorithms that are used to define where two bodies intersect. These algorithms also may be adapted for the needs of this study.
+
+\section{Resolution of Interpenetration Regions}
+
+Similar to the detection of inter-penetrations, the resolution of inter-penetrations will also depend on the representation type used to describe the tow surfaces. The representations discovered thus far have been accompanied with a standard form of a solution. Therefore, the process of solving the inter-penetrations will conceivably consist of methods adapted from the standard solution form. In each case of representation type, the solution will be adapted and implemented for this research.

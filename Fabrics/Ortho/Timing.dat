@@ -1,0 +1,202 @@
+Starting Step	5	Mon Jun 12 09:00:05 2017
+Damping Factor:	10
+Iteration:	75
+
+Substep:	1
+MEL:	981935	MELES:	448448
+Equs:	1351224	Non-zeroes:	11539863
+iters time:	2	Mon Jun 12 09:00:10 2017
+
+Substep:	2
+MEL:	981852	MELES:	448448
+Equs:	1351224	Non-zeroes:	11539116
+iters time:	2	Mon Jun 12 09:00:15 2017
+
+Substep:	3
+MEL:	981793	MELES:	448448
+Equs:	1351224	Non-zeroes:	11538585
+iters time:	2	Mon Jun 12 09:00:20 2017
+
+Substep:	4
+MEL:	981668	MELES:	448448
+Equs:	1351224	Non-zeroes:	11537460
+iters time:	2	Mon Jun 12 09:00:25 2017
+
+Substep:	5
+MEL:	981521	MELES:	448448
+Equs:	1351224	Non-zeroes:	11536137
+iters time:	2	Mon Jun 12 09:00:31 2017
+
+Substep:	6
+MEL:	981399	MELES:	448448
+Equs:	1351224	Non-zeroes:	11535039
+iters time:	2	Mon Jun 12 09:00:36 2017
+
+Substep:	7
+MEL:	981308	MELES:	448448
+Equs:	1351224	Non-zeroes:	11534220
+iters time:	2	Mon Jun 12 09:00:41 2017
+
+Substep:	8
+MEL:	981194	MELES:	448448
+Equs:	1351224	Non-zeroes:	11533194
+iters time:	2	Mon Jun 12 09:00:47 2017
+
+Substep:	9
+MEL:	981113	MELES:	448448
+Equs:	1351224	Non-zeroes:	11532465
+iters time:	2	Mon Jun 12 09:00:52 2017
+
+Substep:	10
+MEL:	980983	MELES:	448448
+Equs:	1351224	Non-zeroes:	11531295
+iters time:	2	Mon Jun 12 09:00:57 2017
+
+Substep:	11
+MEL:	980860	MELES:	448448
+Equs:	1351224	Non-zeroes:	11530188
+iters time:	2	Mon Jun 12 09:01:02 2017
+
+Substep:	12
+MEL:	980738	MELES:	448448
+Equs:	1351224	Non-zeroes:	11529090
+iters time:	2	Mon Jun 12 09:01:07 2017
+
+Substep:	13
+MEL:	980633	MELES:	448448
+Equs:	1351224	Non-zeroes:	11528145
+iters time:	2	Mon Jun 12 09:01:12 2017
+
+Substep:	14
+MEL:	980519	MELES:	448448
+Equs:	1351224	Non-zeroes:	11527119
+iters time:	2	Mon Jun 12 09:01:17 2017
+
+Substep:	15
+MEL:	980429	MELES:	448448
+Equs:	1351224	Non-zeroes:	11526309
+iters time:	2	Mon Jun 12 09:01:22 2017
+
+Substep:	16
+MEL:	980311	MELES:	448448
+Equs:	1351224	Non-zeroes:	11525247
+iters time:	2	Mon Jun 12 09:01:27 2017
+
+Substep:	17
+MEL:	980214	MELES:	448448
+Equs:	1351224	Non-zeroes:	11524374
+iters time:	2	Mon Jun 12 09:01:32 2017
+
+Substep:	18
+MEL:	980143	MELES:	448448
+Equs:	1351224	Non-zeroes:	11523735
+iters time:	2	Mon Jun 12 09:01:37 2017
+
+Substep:	19
+MEL:	980061	MELES:	448448
+Equs:	1351224	Non-zeroes:	11522997
+iters time:	2	Mon Jun 12 09:01:41 2017
+
+Substep:	20
+MEL:	979979	MELES:	448448
+Equs:	1351224	Non-zeroes:	11522259
+iters time:	2	Mon Jun 12 09:01:46 2017
+
+Substep:	21
+MEL:	979901	MELES:	448448
+Equs:	1351224	Non-zeroes:	11521557
+iters time:	2	Mon Jun 12 09:01:51 2017
+
+Substep:	22
+MEL:	979801	MELES:	448448
+Equs:	1351224	Non-zeroes:	11520657
+iters time:	2	Mon Jun 12 09:01:57 2017
+
+Substep:	23
+MEL:	979707	MELES:	448448
+Equs:	1351224	Non-zeroes:	11519811
+iters time:	2	Mon Jun 12 09:02:02 2017
+
+Substep:	24
+MEL:	979623	MELES:	448448
+Equs:	1351224	Non-zeroes:	11519055
+iters time:	2	Mon Jun 12 09:02:07 2017
+
+Substep:	25
+MEL:	979539	MELES:	448448
+Equs:	1351224	Non-zeroes:	11518299
+iters time:	2	Mon Jun 12 09:02:12 2017
+
+Substep:	26
+MEL:	979444	MELES:	448448
+Equs:	1351224	Non-zeroes:	11517444
+iters time:	2	Mon Jun 12 09:02:18 2017
+
+Substep:	27
+MEL:	979354	MELES:	448448
+Equs:	1351224	Non-zeroes:	11516634
+iters time:	2	Mon Jun 12 09:02:23 2017
+
+Substep:	28
+MEL:	979272	MELES:	448448
+Equs:	1351224	Non-zeroes:	11515896
+iters time:	2	Mon Jun 12 09:02:28 2017
+
+Substep:	29
+MEL:	979192	MELES:	448448
+Equs:	1351224	Non-zeroes:	11515176
+iters time:	2	Mon Jun 12 09:02:33 2017
+
+Substep:	30
+MEL:	979080	MELES:	448448
+Equs:	1351224	Non-zeroes:	11514168
+iters time:	2	Mon Jun 12 09:02:39 2017
+
+Substep:	31
+MEL:	978990	MELES:	448448
+Equs:	1351224	Non-zeroes:	11513358
+iters time:	2	Mon Jun 12 09:02:44 2017
+
+Substep:	32
+MEL:	978902	MELES:	448448
+Equs:	1351224	Non-zeroes:	11512566
+iters time:	2	Mon Jun 12 09:02:49 2017
+
+Substep:	33
+MEL:	978817	MELES:	448448
+Equs:	1351224	Non-zeroes:	11511801
+iters time:	2	Mon Jun 12 09:02:54 2017
+
+Substep:	34
+MEL:	978747	MELES:	448448
+Equs:	1351224	Non-zeroes:	11511171
+iters time:	2	Mon Jun 12 09:02:59 2017
+
+Substep:	35
+MEL:	978681	MELES:	448448
+Equs:	1351224	Non-zeroes:	11510577
+iters time:	2	Mon Jun 12 09:03:04 2017
+
+Substep:	36
+MEL:	978598	MELES:	448448
+Equs:	1351224	Non-zeroes:	11509830
+iters time:	2	Mon Jun 12 09:03:09 2017
+
+Substep:	37
+MEL:	978519	MELES:	448448
+Equs:	1351224	Non-zeroes:	11509119
+iters time:	2	Mon Jun 12 09:03:15 2017
+
+Substep:	38
+MEL:	978420	MELES:	448448
+Equs:	1351224	Non-zeroes:	11508228
+iters time:	2	Mon Jun 12 09:03:20 2017
+
+Substep:	39
+MEL:	978345	MELES:	448448
+Equs:	1351224	Non-zeroes:	11507553
+iters time:	2	Mon Jun 12 09:03:25 2017
+
+Substep:	40
+MEL:	978280	MELES:	448448
+Equs:	1351224	Non-zeroes:	11506968

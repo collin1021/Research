@@ -1,0 +1,37 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  New template code for TAMU Theses and Dissertations starting Fall 2016.  
+%
+%
+%  Author: Sean Zachary Roberson
+%  Version 3.17.09
+%  Last Updated: 9/21/2017
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                           SECTION II
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\chapter{RESEARCH OBJECTIVES}
+
+To guide this study, three main goals were established to be completed during the duration of this research. These objectives will be discussed regarding both the result of completion and the foreseeable method. They are as follows:
+\begin{enumerate}
+\item Determine data representation types that will best describe the geometries from VTMS.
+\item Implement methods for each representation type that will accurately identify interpenetration regions.
+\item Discuss and implement methods that resolve inter-penetrations for each representation type.
+\end{enumerate}
+
+\section{Surface Representation Data Types}
+There are many types of computational analyses that can be used on computer models and geometries. Inherently, there are also many ways to describe this data. The first objective will be to explore possible representations of the data from VTMS and how they relate to the default types given from this software. This objective is a prerequisite to the remaining objectives as it is important to use the best suited data type for identifying and resolving inter-penetration regions between surfaces.
+
+The origin software VTMS is written in C++ and it is the goal of this study to create a set of software that can implemented in not just VTMS but other software as well. Therefore, the methods developed will be written in C++. Completion of this objective will allow for a easy to use software that can translate  the representation of the geometries in VTMS to other representation types.
+
+\section{Identification of Interpenetration Regions}
+
+The second objective will determine an accurate way to identify inter-penetration regions for the representation types chosen in the first objective. It is important that the detection algorithm correctly identify the regions inter-penetrating so that all incompatibilities may be fixed. The results of completing this objective will given all the information needed to correctly fix the inter-penetrations for the respective representation type for the geometries. 
+
+\section{Resolution of Interpenetration Regions}
+
+The third objective is to identify a method that can resolve the issue of inter-penetrations for each representation type identified in the first objective. Once the method is identified, it will be implemented if possible or the required data to solve the inter-penetration will be given to the user. This will allow for multiple possible solutions to be implemented. It is conceivable that some solutions may be too complex to be implemented during this study.

@@ -1,0 +1,378 @@
+Starting Step	1	Sun Apr  7 21:06:04 2019
+Damping Factor:	300
+Iteration:	75
+
+Substep:	1
+MEL:	665707	MELES:	192304
+Equs:	366030	Non-zeroes:	6723423
+iters time:	2	Sun Apr  7 21:06:06 2019
+
+Substep:	2
+MEL:	666168	MELES:	192304
+Equs:	366030	Non-zeroes:	6727572
+iters time:	2	Sun Apr  7 21:06:08 2019
+
+Substep:	3
+MEL:	666700	MELES:	192304
+Equs:	366030	Non-zeroes:	6732360
+iters time:	2	Sun Apr  7 21:06:10 2019
+
+Substep:	4
+MEL:	667234	MELES:	192304
+Equs:	366030	Non-zeroes:	6737166
+iters time:	2	Sun Apr  7 21:06:12 2019
+
+Substep:	5
+MEL:	667677	MELES:	192304
+Equs:	366030	Non-zeroes:	6741153
+iters time:	2	Sun Apr  7 21:06:14 2019
+
+Substep:	6
+MEL:	668195	MELES:	192304
+Equs:	366030	Non-zeroes:	6745815
+iters time:	2	Sun Apr  7 21:06:16 2019
+
+Substep:	7
+MEL:	668716	MELES:	192304
+Equs:	366030	Non-zeroes:	6750504
+iters time:	2	Sun Apr  7 21:06:18 2019
+
+Substep:	8
+MEL:	669236	MELES:	192304
+Equs:	366030	Non-zeroes:	6755184
+iters time:	2	Sun Apr  7 21:06:20 2019
+
+Substep:	9
+MEL:	669750	MELES:	192304
+Equs:	366030	Non-zeroes:	6759810
+iters time:	2	Sun Apr  7 21:06:22 2019
+
+Substep:	10
+MEL:	670290	MELES:	192304
+Equs:	366030	Non-zeroes:	6764670
+iters time:	2	Sun Apr  7 21:06:24 2019
+
+Substep:	11
+MEL:	670827	MELES:	192304
+Equs:	366030	Non-zeroes:	6769503
+iters time:	2	Sun Apr  7 21:06:25 2019
+
+Substep:	12
+MEL:	671382	MELES:	192304
+Equs:	366030	Non-zeroes:	6774498
+iters time:	2	Sun Apr  7 21:06:27 2019
+
+Substep:	13
+MEL:	671857	MELES:	192304
+Equs:	366030	Non-zeroes:	6778773
+iters time:	2	Sun Apr  7 21:06:29 2019
+
+Substep:	14
+MEL:	672316	MELES:	192304
+Equs:	366030	Non-zeroes:	6782904
+iters time:	2	Sun Apr  7 21:06:31 2019
+
+Substep:	15
+MEL:	672874	MELES:	192304
+Equs:	366030	Non-zeroes:	6787926
+iters time:	2	Sun Apr  7 21:06:33 2019
+
+Substep:	16
+MEL:	673434	MELES:	192304
+Equs:	366030	Non-zeroes:	6792966
+iters time:	2	Sun Apr  7 21:06:35 2019
+
+Substep:	17
+MEL:	673934	MELES:	192304
+Equs:	366030	Non-zeroes:	6797466
+iters time:	2	Sun Apr  7 21:06:37 2019
+
+Substep:	18
+MEL:	674527	MELES:	192304
+Equs:	366030	Non-zeroes:	6802803
+iters time:	2	Sun Apr  7 21:06:39 2019
+
+Substep:	19
+MEL:	674967	MELES:	192304
+Equs:	366030	Non-zeroes:	6806763
+iters time:	2	Sun Apr  7 21:06:41 2019
+
+Substep:	20
+MEL:	675598	MELES:	192304
+Equs:	366030	Non-zeroes:	6812442
+iters time:	2	Sun Apr  7 21:06:43 2019
+
+Substep:	21
+MEL:	676129	MELES:	192304
+Equs:	366030	Non-zeroes:	6817221
+iters time:	2	Sun Apr  7 21:06:45 2019
+
+Substep:	22
+MEL:	676652	MELES:	192304
+Equs:	366030	Non-zeroes:	6821928
+iters time:	2	Sun Apr  7 21:06:47 2019
+
+Substep:	23
+MEL:	677199	MELES:	192304
+Equs:	366030	Non-zeroes:	6826851
+iters time:	2	Sun Apr  7 21:06:49 2019
+
+Substep:	24
+MEL:	677688	MELES:	192304
+Equs:	366030	Non-zeroes:	6831252
+iters time:	2	Sun Apr  7 21:06:51 2019
+
+Substep:	25
+MEL:	678200	MELES:	192304
+Equs:	366030	Non-zeroes:	6835860
+iters time:	2	Sun Apr  7 21:06:53 2019
+
+Substep:	26
+MEL:	678724	MELES:	192304
+Equs:	366030	Non-zeroes:	6840576
+iters time:	2	Sun Apr  7 21:06:55 2019
+
+Substep:	27
+MEL:	679274	MELES:	192304
+Equs:	366030	Non-zeroes:	6845526
+iters time:	2	Sun Apr  7 21:06:57 2019
+
+Substep:	28
+MEL:	679808	MELES:	192304
+Equs:	366030	Non-zeroes:	6850332
+iters time:	2	Sun Apr  7 21:06:59 2019
+
+Substep:	29
+MEL:	680249	MELES:	192304
+Equs:	366030	Non-zeroes:	6854301
+iters time:	2	Sun Apr  7 21:07:01 2019
+
+Substep:	30
+MEL:	680711	MELES:	192304
+Equs:	366030	Non-zeroes:	6858459
+iters time:	2	Sun Apr  7 21:07:03 2019
+
+Substep:	31
+MEL:	681181	MELES:	192304
+Equs:	366030	Non-zeroes:	6862689
+iters time:	2	Sun Apr  7 21:07:05 2019
+
+Substep:	32
+MEL:	681751	MELES:	192304
+Equs:	366030	Non-zeroes:	6867819
+iters time:	2	Sun Apr  7 21:07:07 2019
+
+Substep:	33
+MEL:	682188	MELES:	192304
+Equs:	366030	Non-zeroes:	6871752
+iters time:	2	Sun Apr  7 21:07:09 2019
+
+Substep:	34
+MEL:	682705	MELES:	192304
+Equs:	366030	Non-zeroes:	6876405
+iters time:	2	Sun Apr  7 21:07:11 2019
+
+Substep:	35
+MEL:	683199	MELES:	192304
+Equs:	366030	Non-zeroes:	6880851
+iters time:	2	Sun Apr  7 21:07:13 2019
+
+Substep:	36
+MEL:	683735	MELES:	192304
+Equs:	366030	Non-zeroes:	6885675
+iters time:	2	Sun Apr  7 21:07:15 2019
+
+Substep:	37
+MEL:	684300	MELES:	192304
+Equs:	366030	Non-zeroes:	6890760
+iters time:	2	Sun Apr  7 21:07:17 2019
+
+Substep:	38
+MEL:	684765	MELES:	192304
+Equs:	366030	Non-zeroes:	6894945
+iters time:	2	Sun Apr  7 21:07:19 2019
+
+Substep:	39
+MEL:	685292	MELES:	192304
+Equs:	366030	Non-zeroes:	6899688
+iters time:	2	Sun Apr  7 21:07:21 2019
+
+Substep:	40
+MEL:	685768	MELES:	192304
+Equs:	366030	Non-zeroes:	6903972
+iters time:	2	Sun Apr  7 21:07:23 2019
+
+Substep:	41
+MEL:	686357	MELES:	192304
+Equs:	366030	Non-zeroes:	6909273
+iters time:	2	Sun Apr  7 21:07:25 2019
+
+Substep:	42
+MEL:	686845	MELES:	192304
+Equs:	366030	Non-zeroes:	6913665
+iters time:	2	Sun Apr  7 21:07:27 2019
+
+Substep:	43
+MEL:	687294	MELES:	192304
+Equs:	366030	Non-zeroes:	6917706
+iters time:	2	Sun Apr  7 21:07:29 2019
+
+Substep:	44
+MEL:	687822	MELES:	192304
+Equs:	366030	Non-zeroes:	6922458
+iters time:	2	Sun Apr  7 21:07:31 2019
+
+Substep:	45
+MEL:	688366	MELES:	192304
+Equs:	366030	Non-zeroes:	6927354
+iters time:	2	Sun Apr  7 21:07:33 2019
+
+Substep:	46
+MEL:	688856	MELES:	192304
+Equs:	366030	Non-zeroes:	6931764
+iters time:	2	Sun Apr  7 21:07:35 2019
+
+Substep:	47
+MEL:	689388	MELES:	192304
+Equs:	366030	Non-zeroes:	6936552
+iters time:	2	Sun Apr  7 21:07:37 2019
+
+Substep:	48
+MEL:	689894	MELES:	192304
+Equs:	366030	Non-zeroes:	6941106
+iters time:	2	Sun Apr  7 21:07:39 2019
+
+Substep:	49
+MEL:	690415	MELES:	192304
+Equs:	366030	Non-zeroes:	6945795
+iters time:	2	Sun Apr  7 21:07:41 2019
+
+Substep:	50
+MEL:	690933	MELES:	192304
+Equs:	366030	Non-zeroes:	6950457
+iters time:	2	Sun Apr  7 21:07:43 2019
+
+Substep:	51
+MEL:	691475	MELES:	192304
+Equs:	366030	Non-zeroes:	6955335
+iters time:	2	Sun Apr  7 21:07:45 2019
+
+Substep:	52
+MEL:	691899	MELES:	192304
+Equs:	366030	Non-zeroes:	6959151
+iters time:	2	Sun Apr  7 21:07:47 2019
+
+Substep:	53
+MEL:	692389	MELES:	192304
+Equs:	366030	Non-zeroes:	6963561
+iters time:	2	Sun Apr  7 21:07:49 2019
+
+Substep:	54
+MEL:	692875	MELES:	192304
+Equs:	366030	Non-zeroes:	6967935
+iters time:	2	Sun Apr  7 21:07:51 2019
+
+Substep:	55
+MEL:	693331	MELES:	192304
+Equs:	366030	Non-zeroes:	6972039
+iters time:	2	Sun Apr  7 21:07:53 2019
+
+Substep:	56
+MEL:	693822	MELES:	192304
+Equs:	366030	Non-zeroes:	6976458
+iters time:	2	Sun Apr  7 21:07:55 2019
+
+Substep:	57
+MEL:	694298	MELES:	192304
+Equs:	366030	Non-zeroes:	6980742
+iters time:	2	Sun Apr  7 21:07:57 2019
+
+Substep:	58
+MEL:	694782	MELES:	192304
+Equs:	366030	Non-zeroes:	6985098
+iters time:	2	Sun Apr  7 21:07:59 2019
+
+Substep:	59
+MEL:	695351	MELES:	192304
+Equs:	366030	Non-zeroes:	6990219
+iters time:	2	Sun Apr  7 21:08:01 2019
+
+Substep:	60
+MEL:	695897	MELES:	192304
+Equs:	366030	Non-zeroes:	6995133
+iters time:	2	Sun Apr  7 21:08:03 2019
+
+Substep:	61
+MEL:	696363	MELES:	192304
+Equs:	366030	Non-zeroes:	6999327
+iters time:	2	Sun Apr  7 21:08:05 2019
+
+Substep:	62
+MEL:	696806	MELES:	192304
+Equs:	366030	Non-zeroes:	7003314
+iters time:	2	Sun Apr  7 21:08:07 2019
+
+Substep:	63
+MEL:	697324	MELES:	192304
+Equs:	366030	Non-zeroes:	7007976
+iters time:	2	Sun Apr  7 21:08:09 2019
+
+Substep:	64
+MEL:	697784	MELES:	192304
+Equs:	366030	Non-zeroes:	7012116
+iters time:	2	Sun Apr  7 21:08:12 2019
+
+Substep:	65
+MEL:	698255	MELES:	192304
+Equs:	366030	Non-zeroes:	7016355
+iters time:	2	Sun Apr  7 21:08:14 2019
+
+Substep:	66
+MEL:	698701	MELES:	192304
+Equs:	366030	Non-zeroes:	7020369
+iters time:	2	Sun Apr  7 21:08:16 2019
+
+Substep:	67
+MEL:	699261	MELES:	192304
+Equs:	366030	Non-zeroes:	7025409
+iters time:	2	Sun Apr  7 21:08:18 2019
+
+Substep:	68
+MEL:	699743	MELES:	192304
+Equs:	366030	Non-zeroes:	7029747
+iters time:	2	Sun Apr  7 21:08:20 2019
+
+Substep:	69
+MEL:	700210	MELES:	192304
+Equs:	366030	Non-zeroes:	7033950
+iters time:	2	Sun Apr  7 21:08:22 2019
+
+Substep:	70
+MEL:	700655	MELES:	192304
+Equs:	366030	Non-zeroes:	7037955
+iters time:	2	Sun Apr  7 21:08:24 2019
+
+Substep:	71
+MEL:	701154	MELES:	192304
+Equs:	366030	Non-zeroes:	7042446
+iters time:	2	Sun Apr  7 21:08:26 2019
+
+Substep:	72
+MEL:	701671	MELES:	192304
+Equs:	366030	Non-zeroes:	7047099
+iters time:	2	Sun Apr  7 21:08:28 2019
+
+Substep:	73
+MEL:	702088	MELES:	192304
+Equs:	366030	Non-zeroes:	7050852
+iters time:	2	Sun Apr  7 21:08:30 2019
+
+Substep:	74
+MEL:	702585	MELES:	192304
+Equs:	366030	Non-zeroes:	7055325
+iters time:	2	Sun Apr  7 21:08:32 2019
+
+Substep:	75
+MEL:	703112	MELES:	192304
+Equs:	366030	Non-zeroes:	7060068
+iters time:	2	Sun Apr  7 21:08:34 2019
